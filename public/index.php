@@ -1,1 +1,4 @@
-<h1>Project 1</h1>
+<?php
+
+echo $_SERVER['SERVER_NAME'];
+
